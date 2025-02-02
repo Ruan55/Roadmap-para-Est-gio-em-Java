@@ -12,3 +12,5 @@
 ## Programação Orientada a Objetos - POO
 - Conceitos Iniciais: Classes, Objetos, Métodos, Construtores
 - Modificadores de acesso: public, default, private, protected
+- Interfaces e classes abstratas
+- Herança e polimorfismo
