@@ -5,7 +5,7 @@ public class peixe extends ser_vivo2{
 
     boolean pararDeRespirar;
 
-    // é a capacidade de tratar objetos de classes diferentes de forma uniforme, desde que tenham uma interface comum ou uma classe base
+    // Polimorfismo: é a capacidade de tratar objetos de classes diferentes de forma uniforme, desde que tenham uma interface comum ou uma classe base
     public peixe(int idade) {
         super(idade);
         this.pararDeRespirar = false;
