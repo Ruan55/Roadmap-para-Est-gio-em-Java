@@ -7,7 +7,14 @@ public class main {
         humano humano1 = new humano();
         peixe peixe1 = new peixe(33);
 
-        peixe1.respirar();
+        peixe peixeMorto = null;
+
+        // Tratamento de Exceções com Java
+        try {
+            peixeMorto.respirar();
+        }catch (NullPointerException exception){
+            System.out.println("Arrume outro peixe");
+        }
 
     }
 
