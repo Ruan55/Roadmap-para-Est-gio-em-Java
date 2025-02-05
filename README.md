@@ -14,3 +14,4 @@
 - Modificadores de acesso: public, default, private, protected
 - Interfaces e classes abstratas
 - Herança e polimorfismo
+- Tratamento de Exceções
